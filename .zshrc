@@ -1,4 +1,5 @@
 # If you come from bash you might have to change your $PATH..
+hbhjbhjbhj
 
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 
