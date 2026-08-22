@@ -1,4 +1,4 @@
-# If you come from bash you might have to change your $PATH.. jj j  j jjjhnnn
+# If you come from bash you might have to change your $PATH.. jj j  j jjj
 
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 
