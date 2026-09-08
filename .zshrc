@@ -1,4 +1,4 @@
-# If you come from bash you might have to change your $PATH..vghbmnbjhb
+# If you come from bash you might have to change your $PATH..vghbmnb
 
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 
